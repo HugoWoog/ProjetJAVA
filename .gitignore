@@ -1,6 +1,6 @@
 .settings
 .classpath
 .project
-idea/
+.idea/
 .DS_Store
 build/
